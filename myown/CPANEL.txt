@@ -1,0 +1,57 @@
+
+
+FTP transfer
+OffOn
+
+Host Name:
+
+files.000webhost.com
+
+Port:
+
+21
+
+Username:
+
+phplebanon2
+
+Password: peterman
+
+same as your website password
+
+
+
+Website details
+This is a short overview of your website details. To learn more about each feature browse icons inside control panel. Don't know how to get started? Check tutorials in community forum.
+Website details
+Your website is accessible at the addresses defined below. To learn how to point domain or change website address follow"How to point domain name to 000webhost.com" tutorial Active since 	2018-02-14 06:30:17
+Access your website
+Set web address 	
+phplebanon2.000webhostapp.com
+Statistics 	Bandwidth: 0.03MB of 10000MB
+Disk: 0MB of 1000MB
+Inodes: 4 of 20000
+Sent email: 0 of 50
+
+File Upload Details (FTP)
+To learn how to manage website files follow"How to upload files to 000webhost?" tutorial. Host 	files.000webhost.com
+Username 	phplebanon2
+Password 	Change password
+Home directory 	/storage/ssd4/499/4743499
+Folder to upload files 	public_html
+Ftp clients 	Web file manager
+SmartFTP
+FileZilla
+
+Name servers ns01.000webhost.com
+ns02.000webhost.com
+Quick links Change website password
+Upload files with web file manager
+Manage databases with phpMyAdmin
+Get help at community forums
+Community tutorials
+
+database name
+id4743499_laravelvue
+id4743499_laravelvue
+laravelvue

@@ -1,0 +1,51 @@
+composer create-project --prefer-dist laravel/laravel laravelvue "5.5.*"
+
+mkdir app\Models
+mv app\User.php app\Models
+
+
+mkdir assets\components
+
+touch assets\components\App.vue
+
+touch assets\components\Dashboard.vue
+
+touch assets\components\Home.vue
+
+touch assets\components\Register.vue
+
+touch assets\components\Signin.vue
+
+
+
+mkdir assets\js
+
+touch assets\js\app.js
+
+
+php artisan jwt:generate
+
+In BoundMethod.php line 135:
+
+  Method Tymon\JWTAuth\Commands\JWTGenerateCommand::handle() does not exist
+
+php artisan make:controller UserController
+
+C:\wamp64\www\laravelvue
+
+
+composer require doctrine/dbal
+
+php artisan make:migration add_membertype_to_users
+
+$table->string('membertype')->after('password');
+$table->enum('membertype',['admin', 'user', 'coordinator'])->default('admin')->after('password');
+
+'admin', 'user', 'coordinator'
+
+
+http://127.0.0.1:8000/#/dashboard1
+
+http://127.0.0.1:8000/#/dashboard2
+
+
